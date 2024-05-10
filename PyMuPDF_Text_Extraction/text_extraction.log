@@ -1,0 +1,32 @@
+2024-05-10 12:47:41,463 - ERROR - Error extracting text from C:/Users/tinot/Downloads/PyMuPDF\Infocom98_lookup.pdf: 'Page' object has no attribute 'getText'
+2024-05-10 13:12:23,635 - INFO - Text extraction completed.
+2024-05-10 13:12:40,160 - INFO - Text extraction completed.
+2024-05-10 13:15:25,703 - ERROR - Error extracting text from C:/Users/tinot/Downloads/PyMuPDF\BGP-policies.pdf: name 're' is not defined
+2024-05-10 13:15:25,740 - ERROR - Error extracting text from C:/Users/tinot/Downloads/PyMuPDF\endtoend.pdf: name 're' is not defined
+2024-05-10 13:15:25,837 - ERROR - Error extracting text from C:/Users/tinot/Downloads/PyMuPDF\european-IXP.pdf: name 're' is not defined
+2024-05-10 13:15:25,876 - ERROR - Error extracting text from C:/Users/tinot/Downloads/PyMuPDF\fiftygiga.pdf: name 're' is not defined
+2024-05-10 13:15:25,908 - ERROR - Error extracting text from C:/Users/tinot/Downloads/PyMuPDF\iBGP.pdf: name 're' is not defined
+2024-05-10 13:15:48,793 - ERROR - Error extracting text from C:/Users/tinot/Downloads/PyMuPDF\BGP-policies.pdf: name 're' is not defined
+2024-05-10 13:15:48,815 - ERROR - Error extracting text from C:/Users/tinot/Downloads/PyMuPDF\endtoend.pdf: name 're' is not defined
+2024-05-10 13:15:48,893 - ERROR - Error extracting text from C:/Users/tinot/Downloads/PyMuPDF\european-IXP.pdf: name 're' is not defined
+2024-05-10 13:15:48,921 - ERROR - Error extracting text from C:/Users/tinot/Downloads/PyMuPDF\fiftygiga.pdf: name 're' is not defined
+2024-05-10 13:15:48,952 - ERROR - Error extracting text from C:/Users/tinot/Downloads/PyMuPDF\iBGP.pdf: name 're' is not defined
+2024-05-10 13:18:08,455 - ERROR - Error processing file: C:/Users/tinot/Downloads/PyMuPDF\BGP-policies.pdf - name 'preprocess_text' is not defined
+2024-05-10 13:18:08,505 - ERROR - Error processing file: C:/Users/tinot/Downloads/PyMuPDF\endtoend.pdf - name 'preprocess_text' is not defined
+2024-05-10 13:18:08,640 - ERROR - Error processing file: C:/Users/tinot/Downloads/PyMuPDF\european-IXP.pdf - name 'preprocess_text' is not defined
+2024-05-10 13:18:08,687 - ERROR - Error processing file: C:/Users/tinot/Downloads/PyMuPDF\fiftygiga.pdf - name 'preprocess_text' is not defined
+2024-05-10 13:18:08,736 - ERROR - Error processing file: C:/Users/tinot/Downloads/PyMuPDF\iBGP.pdf - name 'preprocess_text' is not defined
+2024-05-10 13:44:05,393 - ERROR - No such comm target registered: jupyter.widget.control
+2024-05-10 13:44:05,410 - WARNING - No such comm: 0131f7c6-363d-4911-8869-0c0d046ed703
+2024-05-10 14:01:59,663 - ERROR - No such comm target registered: jupyter.widget.control
+2024-05-10 14:01:59,667 - WARNING - No such comm: 5e2dc4df-d090-4ef6-ae0c-35ebaf2d7a92
+2024-05-10 14:21:04,170 - ERROR - No such comm target registered: jupyter.widget.control
+2024-05-10 14:21:04,177 - WARNING - No such comm: d7cdd097-5b92-4f0a-b3c0-025b037498f8
+2024-05-10 15:13:48,270 - ERROR - No such comm target registered: jupyter.widget.control
+2024-05-10 15:13:48,341 - WARNING - No such comm: a55a433a-60dd-4de9-9ea6-202c0f02f3df
+2024-05-10 15:15:34,028 - ERROR - No such comm target registered: jupyter.widget.control
+2024-05-10 15:15:34,039 - WARNING - No such comm: dd750625-ab9c-4d94-8119-9c4e68ee4f9b
+2024-05-10 15:15:59,526 - ERROR - No such comm target registered: jupyter.widget.control
+2024-05-10 15:15:59,536 - WARNING - No such comm: afee4039-a7d8-4190-8a58-774264bef972
+2024-05-10 15:28:46,654 - ERROR - No such comm target registered: jupyter.widget.control
+2024-05-10 15:28:46,837 - WARNING - No such comm: 8aafb789-d368-44d3-a997-d7c4dbe563e2
