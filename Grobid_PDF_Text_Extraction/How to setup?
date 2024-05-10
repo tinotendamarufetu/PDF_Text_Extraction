@@ -1,0 +1,15 @@
+You need docker to run the grobid image on:
+
+*****Pulling the grobid into docker*****
+docker pull grobid/${version}
+docker pull grobid/grobid:0.8.0
+
+*****Starting the docker image*****
+docker run --rm --init --ulimit core=0 -p 8070:8070 grobid/grobid:0.8.0
+
+*****After starting check if server if up*****
+http://localhost:8070
+
+*****Also refer to*****
+Official Documentation - https://grobid.readthedocs.io/en/latest/Principles/
+Grobid Repository - https://github.com/kermitt2/grobid_client_python
