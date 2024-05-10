@@ -1,0 +1,65 @@
+2024-05-06 16:04:21,633 ERROR: Error processing after-appointment.pdf: Grobid returned None
+2024-05-06 16:04:21,634 ERROR: Error processing appointment-checklist.pdf: Grobid returned None
+2024-05-06 16:04:21,634 ERROR: Error processing A_FS_HCP_COVID19_PPE_card.pdf: Grobid returned None
+2024-05-06 16:04:21,634 ERROR: Error processing CDC_COVID_Posters_GeneralAudience_card.pdf: Grobid returned None
+2024-05-06 16:04:21,635 ERROR: Error processing How-Protein-Subunit-Vaccines-Work.pdf: Grobid returned None
+2024-05-06 16:04:21,635 ERROR: Error processing protect-yourself-and-your-baby-print.pdf: Grobid returned None
+2024-05-06 16:04:21,636 ERROR: Error processing temp-log-ultra-cold-storage-fahrenheit.pdf: Grobid returned None
+2024-05-06 16:04:21,636 ERROR: Error processing Test-Soon-Treat-Early.pdf: Grobid returned None
+2024-05-06 16:09:07,871 ERROR: Error processing Spring_2024_Data Mining Midterm Study Guide.pdf: Grobid returned None
+2024-05-06 16:09:24,330 ERROR: Error processing Spring_2024_Data Mining Midterm Study Guide.pdf: Grobid returned None
+2024-05-06 16:09:53,797 ERROR: Error processing Spring_2024_Data Mining Midterm Study Guide.pdf: Grobid returned None
+2024-05-06 16:19:13,480 ERROR: Error processing Spring_2024_Data Mining Midterm Study Guide.pdf: Grobid returned None
+2024-05-06 16:31:36,446 ERROR: Error processing cdc_11447_DS1.pdf: Grobid returned None
+2024-05-06 16:31:36,450 ERROR: Error processing Physical_Activity_Guidelines_2nd_edition.pdf: Grobid returned None
+2024-05-06 16:40:06,351 ERROR: Error processing cdc_11447_DS1.pdf: Grobid returned None
+2024-05-06 16:40:06,353 ERROR: Error processing Physical_Activity_Guidelines_2nd_edition.pdf: Grobid returned None
+2024-05-06 16:53:52,983 ERROR: Error processing cdc_11447_DS1.pdf: Grobid returned None
+2024-05-06 16:53:52,986 ERROR: Error processing Physical_Activity_Guidelines_2nd_edition.pdf: Grobid returned None
+2024-05-06 17:12:12,426 ERROR: Error processing 2305.14251v2.pdf: Grobid returned None
+2024-05-06 17:29:27,875 ERROR: Error processing 2305.14251v2.pdf: Grobid returned None
+2024-05-06 21:42:06,648 ERROR: Error processing same1.pdf: Grobid returned None (retried)
+2024-05-06 21:42:47,134 ERROR: Error processing same1.pdf: Grobid returned None (retried)
+2024-05-06 21:42:49,533 ERROR: Error processing same1.pdf: Grobid returned None (retried)
+2024-05-06 21:44:35,097 ERROR: Error processing same1.pdf: Grobid returned None (retried)
+2024-05-06 21:44:37,828 ERROR: Error processing same1.pdf: Grobid returned None (retried)
+2024-05-06 22:02:58,160 ERROR: Error processing endtoend.pdf: Grobid returned None (retried)
+2024-05-06 22:02:58,162 ERROR: Error processing european-IXP.pdf: Grobid returned None (retried)
+2024-05-06 22:02:58,162 ERROR: Error processing fiftygiga.pdf: Grobid returned None (retried)
+2024-05-07 06:53:07,514 ERROR: No such comm target registered: jupyter.widget.control
+2024-05-07 07:44:28,093 ERROR: No such comm target registered: jupyter.widget.control
+2024-05-07 07:49:43,938 ERROR: Error processing endtoend.pdf: Grobid returned None (retried)
+2024-05-07 07:49:43,938 ERROR: Error processing european-IXP.pdf: Grobid returned None (retried)
+2024-05-07 07:49:43,938 ERROR: Error processing fiftygiga.pdf: Grobid returned None (retried)
+2024-05-07 09:28:08,456 ERROR: Error processing 2305.14251v2.pdf: Grobid returned None (retried)
+2024-05-07 09:44:10,044 ERROR: Error processing untitled-collection-3dmno1cz-l-nwn-lwl-5dy1w3k2pb.pdf: Grobid returned None (retried)
+2024-05-07 10:36:53,323 ERROR: Error processing untitled-collection-3dmno1cz-l-nwn-lwl-5dy1w3k2pb.pdf: Grobid returned None (retried)
+2024-05-07 17:00:44,607 ERROR: Error processing 2305.14251v2.pdf: Grobid returned None (retried)
+2024-05-07 17:00:44,608 ERROR: Error processing same1 - Copy (2) - Copy.pdf: Grobid returned None (retried)
+2024-05-07 17:00:44,608 ERROR: Error processing same1 - Copy (2).pdf: Grobid returned None (retried)
+2024-05-07 17:00:44,608 ERROR: Error processing same1 - Copy (3).pdf: Grobid returned None (retried)
+2024-05-07 17:00:44,609 ERROR: Error processing same1 - Copy.pdf: Grobid returned None (retried)
+2024-05-07 17:00:44,610 ERROR: Error processing untitled-collection-3dmno1cz-l-nwn-lwl-5dy1w3k2pb.pdf: Grobid returned None (retried)
+2024-05-07 17:02:19,495 ERROR: Error processing 2305.14251v2.pdf: Grobid returned None (retried)
+2024-05-07 17:02:19,495 ERROR: Error processing same1 - Copy (2) - Copy.pdf: Grobid returned None (retried)
+2024-05-07 17:02:19,495 ERROR: Error processing same1 - Copy (2).pdf: Grobid returned None (retried)
+2024-05-07 17:02:19,495 ERROR: Error processing same1 - Copy (3).pdf: Grobid returned None (retried)
+2024-05-07 17:02:19,496 ERROR: Error processing same1 - Copy.pdf: Grobid returned None (retried)
+2024-05-07 17:02:19,496 ERROR: Error processing untitled-collection-3dmno1cz-l-nwn-lwl-5dy1w3k2pb.pdf: Grobid returned None (retried)
+2024-05-07 17:02:43,826 ERROR: Error processing 2305.14251v2.pdf: Grobid returned None (retried)
+2024-05-07 17:02:43,826 ERROR: Error processing same1 - Copy (2) - Copy.pdf: Grobid returned None (retried)
+2024-05-07 17:02:43,826 ERROR: Error processing same1 - Copy (2).pdf: Grobid returned None (retried)
+2024-05-07 17:02:43,827 ERROR: Error processing same1 - Copy (3).pdf: Grobid returned None (retried)
+2024-05-07 17:02:43,827 ERROR: Error processing same1 - Copy.pdf: Grobid returned None (retried)
+2024-05-07 17:02:43,827 ERROR: Error processing untitled-collection-3dmno1cz-l-nwn-lwl-5dy1w3k2pb.pdf: Grobid returned None (retried)
+2024-05-07 17:03:04,994 ERROR: Error processing 2305.14251v2.pdf: Grobid returned None (retried)
+2024-05-07 17:03:04,994 ERROR: Error processing same1 - Copy (2) - Copy.pdf: Grobid returned None (retried)
+2024-05-07 17:03:04,994 ERROR: Error processing same1 - Copy (2).pdf: Grobid returned None (retried)
+2024-05-07 17:03:04,995 ERROR: Error processing same1 - Copy (3).pdf: Grobid returned None (retried)
+2024-05-07 17:03:04,995 ERROR: Error processing same1 - Copy.pdf: Grobid returned None (retried)
+2024-05-07 17:03:04,995 ERROR: Error processing untitled-collection-3dmno1cz-l-nwn-lwl-5dy1w3k2pb.pdf: Grobid returned None (retried)
+2024-05-07 18:47:02,717 ERROR: No such comm target registered: jupyter.widget.control
+2024-05-07 22:27:40,174 ERROR: No such comm target registered: jupyter.widget.control
+2024-05-07 22:33:48,378 ERROR: No such comm target registered: jupyter.widget.control
+2024-05-09 10:55:52,183 ERROR: PDF extraction failed in attempt 1/2: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001765D735490>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-05-09 10:55:56,211 ERROR: PDF extraction failed after 2 attempts: HTTPConnectionPool(host='localhost', port=8070): Max retries exceeded with url: /api/processFulltextDocument (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001765D632F10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
